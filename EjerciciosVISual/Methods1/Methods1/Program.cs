@@ -41,7 +41,7 @@ namespace Methods1
 
         public static void method3(ref double number1) //creo una variable double, y guardo sobre esta su valor pero truncado a 0 decimales
         {
-            number1 += Math.Truncate(number1);
+            number1 = Math.Truncate(number1);
         }
 
         public static void method5(double number1, int number2, ref double save) //tenemos nuestro un valor 1 al cual debemos quitar los decimales que nos diga el valor 2 y el resultado guardarlo en el valor 3, en este caso save.
@@ -57,7 +57,7 @@ namespace Methods1
         {
             int option; //creamos esta variable para luego igualarlo a menu() y asi poder conseguir que nos coja los numeros de cada caso
             double value = 235.347; //valor
-            int num = 0;//como vamos a usarlo para guardar otro numero debemos ponerlo a 0
+            int num = 2;//valor que usamos para decir que cantidad de decimales quitamos
             double save = 0; //creamos un double para poder almacenar el valor que queremos, y debemos de ponerlo a 0
 
             do
