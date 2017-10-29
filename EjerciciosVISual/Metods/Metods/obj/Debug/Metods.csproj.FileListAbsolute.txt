@@ -4,3 +4,9 @@ C:\Users\spyro\Desktop\EjerciciosVISual\Metods\Metods\bin\Debug\Metods.pdb
 C:\Users\spyro\Desktop\EjerciciosVISual\Metods\Metods\obj\Debug\Metods.csprojResolveAssemblyReference.cache
 C:\Users\spyro\Desktop\EjerciciosVISual\Metods\Metods\obj\Debug\Metods.exe
 C:\Users\spyro\Desktop\EjerciciosVISual\Metods\Metods\obj\Debug\Metods.pdb
+C:\Users\spyro\Desktop\VisualStudio\EjerciciosVISual\Metods\Metods\bin\Debug\Metods.exe.config
+C:\Users\spyro\Desktop\VisualStudio\EjerciciosVISual\Metods\Metods\obj\Debug\Metods.exe
+C:\Users\spyro\Desktop\VisualStudio\EjerciciosVISual\Metods\Metods\obj\Debug\Metods.pdb
+C:\Users\spyro\Desktop\VisualStudio\EjerciciosVISual\Metods\Metods\bin\Debug\Metods.exe
+C:\Users\spyro\Desktop\VisualStudio\EjerciciosVISual\Metods\Metods\bin\Debug\Metods.pdb
+C:\Users\spyro\Desktop\VisualStudio\EjerciciosVISual\Metods\Metods\obj\Debug\Metods.csprojResolveAssemblyReference.cache
